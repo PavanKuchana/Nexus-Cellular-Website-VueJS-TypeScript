@@ -1,4 +1,6 @@
-# nexus-cellular-website-dribbble
+# Nexus-Cellular-Website-dribbble
+# VueJs TypeScript
+# Inspired By dribbble designs
 
 ## Project setup
 ```
@@ -20,5 +22,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Reference 
+```
+(https://dribbble.com/shots/16928268-Catalog-design-for-NexusCellular-website-Devices-products-list)
+```
+
