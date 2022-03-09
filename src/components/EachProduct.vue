@@ -66,6 +66,8 @@ export default defineComponent({
 }
 .product-logo{
     width:320px;
+    height:450px;
+    margin:10px;
 }
 .product-item-info-container{
     width:400px;
@@ -80,14 +82,18 @@ export default defineComponent({
 .product-model{
     color:#7B7B7B;
     font-weight: bold;
+    font-size:16px;
+    margin-bottom: -5px;
 }
 .rating-info-container{
     display: flex;
     align-items: center;
+    margin-bottom: -15px;
 }
 .info-container{
     display: flex;
     align-items: center;
+    margin-bottom: -15px;
 }
 .rating-logo{
     height:25px;
@@ -100,19 +106,22 @@ export default defineComponent({
     font-weight: bold;
     color:#EE7A2D;
 }
+ .product-name{
+        font-size:18px;
+    }
 .product-color-text{
     margin-left: 20px;
 }
 
 .product-specifications{
-     color:#C1C1C1;
+    color:#C1C1C1;
     font-size:16px;
     font-weight: 500;
 }
 
 span{
     color:#000000;
-    margin-left:15px;
+    margin-left:5px;
 }
 .filter-icons{
     margin-bottom: 30px;
@@ -159,15 +168,17 @@ span{
 }
 @media screen and (max-width:992px){
     .product-logo{
-        height:200px;
+        height:160px;
         width:174px;
         align-self: center;
+        margin:0px;
     }
     .product-item-container{
         border-right: 1px solid #AAAAAA;
         border-top: 1px solid #AAAAAA;
         width:100%;
         height:400px;
+        padding-bottom: 5px;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
@@ -179,7 +190,7 @@ span{
     .product-name{
         font-size:14px;
         width:120px;
-        margin-top:-40px;
+        margin-top:-30px;
     }
     .product-model{
         display: none;
@@ -216,11 +227,7 @@ span{
     .cart{
        padding:2px 5px 2px 5px;
     }
-
 }
-
-
-
 
 </style>
 

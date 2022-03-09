@@ -25,7 +25,7 @@ export default defineComponent({
         const productItemDetails:productItemType[]=[
             {
                 id:1,
-                productImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646715900/samsung_s21_128gb_z78yzv.jpg',
+                productImage:'https://images.unsplash.com/photo-1611407019488-0a354195b618?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
                 title:'Samsung Galaxy S21+ 5G 128GB (Grade A) (Handset Only)',
                 model:'SKU:GH82-22131D',
                 rating:'4.5',
@@ -45,7 +45,7 @@ export default defineComponent({
             },
             {
                 id:2,
-                productImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646715909/Samsung_Note10_r1hlfi.jpg',
+                productImage:'https://images.unsplash.com/photo-1611407019532-da1f63f4403e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
                 title:'Samsung Galaxy Note 10 plus 256GB (Grade B) (Handset Only)',
                 model:'SKU:GH82-22131D',
                 rating:'4.5',
@@ -65,7 +65,7 @@ export default defineComponent({
             },
             {
                 id:3,
-                productImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646715919/samsung_s21_5g_128gb_wm09rv.jpg',
+                productImage:'https://images.unsplash.com/photo-1597762470488-3877b1f538c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
                 title:'Samsung Galaxy S21 5G 128GB (Grade A) (Handset Only)',
                 model:'SKU:GH82-22131D',
                 rating:'4.5',
@@ -74,7 +74,7 @@ export default defineComponent({
                 colorsImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646717577/nexus_rating_colors_zhczwt.jpg',
                 color:'White',
                 quantity:23,
-                priceOne:'',
+                priceOne:'$488.99',
                 priceTwo:'$719.49',
                 operatingSystem:'Andriod 10',
                 display:'6.53",IPS',
@@ -85,7 +85,7 @@ export default defineComponent({
             },
             {
                 id:4,
-                productImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646715900/samsung_s21_128gb_z78yzv.jpg',
+                productImage:'https://images.unsplash.com/photo-1611407019488-0a354195b618?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
                 title:'Samsung Galaxy S21+ 5G 128GB (Grade A) (Handset Only)',
                 model:'SKU:GH82-22131D',
                 rating:'4.5',
@@ -105,7 +105,7 @@ export default defineComponent({
             },
             {
                 id:5,
-                productImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646715909/Samsung_Note10_r1hlfi.jpg',
+                productImage:'https://images.unsplash.com/photo-1611407019532-da1f63f4403e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80',
                 title:'Samsung Galaxy Note 10 plus 256GB (Grade B) (Handset Only)',
                 model:'SKU:GH82-22131D',
                 rating:'4.5',
@@ -125,7 +125,7 @@ export default defineComponent({
             },
             {
                 id:6,
-                productImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646715919/samsung_s21_5g_128gb_wm09rv.jpg',
+                productImage:'https://images.unsplash.com/photo-1597762470488-3877b1f538c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80',
                 title:'Samsung Galaxy S21 5G 128GB (Grade A) (Handset Only)',
                 model:'SKU:GH82-22131D',
                 rating:'4.5',
@@ -134,7 +134,7 @@ export default defineComponent({
                 colorsImage:'https://res.cloudinary.com/dfzzwbmcq/image/upload/v1646717577/nexus_rating_colors_zhczwt.jpg',
                 color:'White',
                 quantity:23,
-                priceOne:'',
+                priceOne:'$488.99',
                 priceTwo:'$719.49',
                 operatingSystem:'Andriod 10',
                 display:'6.53",IPS',
